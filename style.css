@@ -7,5 +7,23 @@ form {
     align-content: center;
     padding: auto;
     line-height: 0%;
-    margin-bottom: auto;
+    margin-bottom: 5%;
 }
+
+div {
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    background-color: darkgoldenrod;
+    justify-self: center;
+}
+
+table {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;       
+  }
